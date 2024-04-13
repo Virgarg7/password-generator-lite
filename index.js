@@ -8,6 +8,7 @@ const SIGNS = ["?", "@", "#", "$", "&", "!"];
  * @param {Array<string>} textArray - Array of strings to concatenate.
  * @returns {string} SHA256 hash of the concatenated string.
  */
+
 const concatenateAndHash = (textArray = [""]) => {
   // Concatenate the strings in the array
   let textToHash = "";
@@ -24,6 +25,7 @@ const concatenateAndHash = (textArray = [""]) => {
  * @param {number} [numberOfCharacters=8] - Number of numeric characters to return.
  * @returns {string|null} Numeric password extracted from the hash.
  */
+
 const extractNumbers = (hash, numberOfCharacters = 8) => {
   numberOfCharacters = chackLimitNumberOfCharacters(numberOfCharacters)
   hash = concatenateAndHash(hash)
