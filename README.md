@@ -123,11 +123,11 @@ Contributions are welcome! Please see our [Contributing Guidelines](CONTRIBUTING
 
 ## Issues
 
-If you discover any issues, please [create an issue](https://github.com/Virgarg7) in our GitHub repository.
+If you discover any issues, please [create an issue](https://github.com/Virgarg7/password-generator-lite) in our GitHub repository.
 
 ## Credits
 
-**password-generator-lite** is developed and maintained by [Evyater Hazan](https://github.com/Evyatar-Hazan). We have taken refrence from thier Github Repo.
+**password-generator-lite** is developed and maintained by [Vir Garg](https://github.com/Virgarg7). 
 
 ## Support
 
