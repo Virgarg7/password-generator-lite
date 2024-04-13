@@ -1,4 +1,8 @@
-# password-generator-lite
+# password-generator-lite [PUBLISHED]
+
+
+ 
+## Link: https://www.npmjs.com/package/password-generator-lite
 
 
 **password-generator-lite** is a lightweight JavaScript library for cryptographic hashing, extraction, and transformation of strings. It provides functions for concatenating strings, computing SHA256 hashes, extracting numbers and letters, combining alphanumeric passwords, calculating string hashes, and transforming strings by converting lowercase letters to uppercase, and replacing the first alphanumeric character with a random sign.
